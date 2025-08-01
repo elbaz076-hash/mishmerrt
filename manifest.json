@@ -1,0 +1,13 @@
+{
+  "name": "ניהול משמרות",
+  "short_name": "משמרות",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
+}
